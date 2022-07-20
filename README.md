@@ -1,6 +1,6 @@
 # Google-Drive-Clone
 ## Still in Development
-## [See Demo Here](https://faiezwaseem.github.io/Google-Drive-Clone/)
+## [See Demo Here](https://mjdrivev2.netlify.app)
 ### Features
  - [x] Folder CRUD
  - [x] File Sharing
